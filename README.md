@@ -3,7 +3,6 @@
 - Estou em transição de carreira, pois gosto muito da área de tecnologia, principalmente sobre usabilidade e acessibilidade para pessoas com deficiência. 
 - 🌱 Atualmente além de UX estou aprendendo lógica de programação, JavaScript, PHP, WordPress, Acessibilidade Web, Criação de Jogos mais simples como Pong e Freeway, HTML,      CSS , Layouts Responsivos  e também  a usar o Git e Github.
 - 💞️No momento estudo e faço projetos individualmente , mas gostaria de trocar conhecimentos e criações com outros estudantes ou um time , isso seria muito interessante! 
-- 📫 Linkedin: www.linkedin.com/in/LuanaRodriguesdaSilva 
 - Seja Bem vindo(a) ! :)      
 <div align="center">
   <a href="https://github.com/Luana-RodriguesdaSilva">
