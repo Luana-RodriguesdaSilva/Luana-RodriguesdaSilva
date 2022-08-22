@@ -6,8 +6,8 @@
 - Seja Bem vindo(a) ! :)      
 <div align="center">
   <a href="https://github.com/Luana-RodriguesdaSilva">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luana-RodriguesdaSilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luana-RodriguesdaSilva&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luana-RodriguesdaSilva&show_icons=true&theme=synthwave&include_all_commits=false&count_private=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luana-RodriguesdaSilva&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
   
   <div style="display: inline_block"><br>
