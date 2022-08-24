@@ -1,11 +1,11 @@
 - 👋 Olá meu nome é Luana Rodrigues da Silva
 - 👀 Estou buscando uma oportunidade como UX Designer.
 - Estou em transição de carreira, pois gosto muito da área de tecnologia, principalmente sobre usabilidade e acessibilidade para pessoas com deficiência. 
-- 🌱 Atualmente além de UI/UX estou aprendendo HTML, CSS, Layouts Responsivos, lógica de programação, JavaScript, criação de jogos mais simples como Pong e Freeway, PHP, WordPress, Acessibilidade Web e também  a usar o Git e Github.
+- 🌱 Atualmente além de UI/UX estou aprendendo HTML, CSS, Layouts Responsivos, lógica de programação, JavaScript, criação de jogos mais simples como Pong <a href="https://scratch.mit.edu/projects/704357437">Venha jogar!</a>  e Freeway, PHP, WordPress <a href="https://aluraviagensa.000webhostapp.com/">Confira o projeto</a>, Acessibilidade Web e também  a usar o Git e Github.
 - 💞️No momento estudo e faço projetos individualmente , mas gostaria de trocar conhecimentos e criações com outros estudantes ou um equipe, isso seria muito interessante! 
 - Seja Bem vindo(a) ! :)      
 <div align="center">
-  <a href="https://github.com/Luana-RodriguesdaSilva">
+  <a href="https://github.com/Luana-RodriguesdaSilva"></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luana-RodriguesdaSilva&show_icons=true&theme=synthwave&include_all_commits=false&count_private=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luana-RodriguesdaSilva&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
