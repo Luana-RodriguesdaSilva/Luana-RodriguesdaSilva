@@ -19,8 +19,7 @@
      <a href="https://www.linkedin.com/in/LuanaRodriguesdaSilva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>    
      
-<div>
-  class="tenor-gif-embed" data-postid="24991987" data-share-method="host" data-aspect-ratio="1.89349" data-width="100%"><a href="https://tenor.com/view/totoro-gif-24991987">Totoro GIF</a>from <a href="https://tenor.com/search/totoro-gifs">Totoro GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-</div>
- 
+#
+
+<div class="tenor-gif-embed" data-postid="24991987" data-share-method="host" data-aspect-ratio="1.89349" data-width="100%"><a href="https://tenor.com/view/totoro-gif-24991987">Totoro GIF</a>from <a href="https://tenor.com/search/totoro-gifs">Totoro GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
