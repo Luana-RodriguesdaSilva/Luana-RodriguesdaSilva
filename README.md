@@ -1,5 +1,5 @@
 - 👋 Olá meu nome é Luana Rodrigues da Silva
-- 👀 UX Designer.
+- 👩‍💻 UX Designer.
 - 🔎 Sou apaixonada por pesquisas e temas sociais.
 
 <div align="center">
