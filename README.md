@@ -1,5 +1,5 @@
 - 👋 Olá meu nome é Luana Rodrigues da Silva
-- 👀 Estou buscando uma oportunidade como UX Designer.
+- 👀 Sou UX Designer.
 - 🔎 Sou apaixonada por pesquisas e temas sociais.
 
 <div align="center">
