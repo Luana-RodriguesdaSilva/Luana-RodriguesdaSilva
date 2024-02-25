@@ -19,7 +19,7 @@
      <a href="https://www.linkedin.com/in/LuanaRodriguesdaSilva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>    
      
-#
+Luana-RodriguesdaSilva
+![Snake animation](https://github.com/Luana-RodriguesdaSilva/blob/output/github-contribution-grid-snake.svg)
 
- <a href="https://tenor.com/search/totoro-gifs">Totoro GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
