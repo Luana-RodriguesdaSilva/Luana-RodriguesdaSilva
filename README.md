@@ -3,6 +3,9 @@
 - 👩‍💻 UX Designer.
 - 🔎 Sou apaixonada por pesquisas e temas sociais.
 
+
+<br>
+
 <div align="center">
   <a href="https://github.com/Luana-RodriguesdaSilva"></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luana-RodriguesdaSilva&show_icons=true&theme=synthwave&include_all_commits=false&count_private=false"/>
