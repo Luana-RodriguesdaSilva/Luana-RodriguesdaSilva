@@ -20,7 +20,11 @@
  </div>    
      
 <br>
-  ![Minha galaxia 2](https://github.com/Luana-RodriguesdaSilva/Luana-RodriguesdaSilva/assets/106934139/07b73860-1291-471c-aeed-d6ed91f41908)
+
+ <div>align="center"
+img src="![Minha galaxia 2](https://github.com/Luana-RodriguesdaSilva/Luana-RodriguesdaSilva/assets/106934139/f23ecafe-79d1-4359-8802-756b77bffd99)
+" width="0px" /
+ </div>
 
 
 
