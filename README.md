@@ -22,7 +22,7 @@
 <br>
 
 
-  ![Minha galaxia 2](https://github.com/Luana-RodriguesdaSilva/Luana-RodriguesdaSilva/assets/106934139/f55574c4-7b87-4ea8-adcf-44d863ed7707)
+   <img align="center">![Minha galaxia 2](https://github.com/Luana-RodriguesdaSilva/Luana-RodriguesdaSilva/assets/106934139/f55574c4-7b87-4ea8-adcf-44d863ed7707)
 
   
 
