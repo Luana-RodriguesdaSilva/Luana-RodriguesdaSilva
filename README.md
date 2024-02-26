@@ -1,6 +1,6 @@
 
 - 👋 Olá meu nome é Luana Rodrigues da Silva.
-- 👩‍💻 UX Designer/Product Designer/UX Researcher
+- 👩‍💻 UX Designer/Product Designer/UX Researcher.
 - 🔎 Sou apaixonada por pesquisas e temas sociais.
 - 🐶 Tenho um cachorro chamado Ivan.
 
