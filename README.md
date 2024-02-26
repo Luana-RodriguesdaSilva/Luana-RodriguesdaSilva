@@ -23,7 +23,7 @@
      <a href="https://www.linkedin.com/in/LuanaRodriguesdaSilva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>    
      
-<div align="center"style="display: inline_block"><br>
+<div align="center"style="display: inline_block"><br><br>
 
  ![Minha galaxia 2](https://github.com/Luana-RodriguesdaSilva/Luana-RodriguesdaSilva/assets/106934139/89c59727-39cb-4ff4-8c5f-5f2a7baca27a)
 
