@@ -20,9 +20,8 @@
  </div>    
      
 <br>
+ <img align="center" alt="Planeta"![Minha galaxia 2](https://github.com/Luana-RodriguesdaSilva/Luana-RodriguesdaSilva/assets/106934139/d229fabc-db97-47af-bbe1-7403102ce101)
 
-
-  <img align="center" alt="Planeta" src="(https://github.com/Luana-RodriguesdaSilva/Luana-RodriguesdaSilva/assets/106934139/abdf9774-4d5a-45a1-9645-10c087c80579)">
 
 
 
