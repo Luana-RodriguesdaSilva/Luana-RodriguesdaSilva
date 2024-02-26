@@ -21,7 +21,7 @@
      
 <br>
   
-  ![Minha galaxia 2](https://github.com/Luana-RodriguesdaSilva/Luana-RodriguesdaSilva/assets/106934139/f289bfc2-ba1b-4372-8ae0-7354e74fb3bb)
+  ![Minha galaxia 2](C:\Users\luana\OneDrive\Área de Trabalho\Fotos\Minha galaxia 2.jpg)
 
  
   
