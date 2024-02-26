@@ -22,7 +22,7 @@
 <br>
 
 
-i<img src="![Minha galaxia 2](https://github.com/Luana-RodriguesdaSilva/Luana-RodriguesdaSilva/assets/106934139/7bd5a30a-8c9e-4a01-9abb-2177219a4fa2)
-">
+![Minha galaxia 2](https://github.com/Luana-RodriguesdaSilva/Luana-RodriguesdaSilva/assets/106934139/7bd5a30a-8c9e-4a01-9abb-2177219a4fa2)
+
   
 
