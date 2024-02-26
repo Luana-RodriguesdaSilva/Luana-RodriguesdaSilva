@@ -22,10 +22,6 @@
 <br>
 
 
-img src="(https://github.com/Luana-RodriguesdaSilva/Luana-RodriguesdaSilva/assets/106934139/f23ecafe-79d1-4359-8802-756b77bffd99)
-
-
-
- 
+i<img src="C:\Users\luana\OneDrive\Área de Trabalho\Minha galaxia 2.jpg">
   
 
