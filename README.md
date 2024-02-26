@@ -20,7 +20,7 @@
  </div>    
      
 <br>
-  (![Minha galaxia 2](https://github.com/Luana-RodriguesdaSilva/Luana-RodriguesdaSilva/assets/106934139/07b73860-1291-471c-aeed-d6ed91f41908)
+  ![Minha galaxia 2](https://github.com/Luana-RodriguesdaSilva/Luana-RodriguesdaSilva/assets/106934139/07b73860-1291-471c-aeed-d6ed91f41908)
 
 
 
