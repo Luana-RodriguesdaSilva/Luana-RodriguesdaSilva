@@ -22,9 +22,8 @@
 <br>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Planeta" height="30" width="40" src="(https://github.com/Luana-RodriguesdaSilva/Luana-RodriguesdaSilva/assets/106934139/abdf9774-4d5a-45a1-9645-10c087c80579)
-">
-  </div>
+  <img align="center" alt="Planeta" src="(https://github.com/Luana-RodriguesdaSilva/Luana-RodriguesdaSilva/assets/106934139/abdf9774-4d5a-45a1-9645-10c087c80579)">
+</div>
   
 
 
