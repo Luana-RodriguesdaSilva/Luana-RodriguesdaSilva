@@ -21,8 +21,7 @@
      
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Luana-Imagens de Planeta " height="30" width="40" src="![Minha galaxia 2](https://github.com/Luana-RodriguesdaSilva/Luana-RodriguesdaSilva/assets/106934139/df93ae9e-18ab-40d4-82fc-1fa331dfd11a)
->
+  <img align="center" alt="Luana-Imagens de Planeta " height="30" width="40" src="![Minha galaxia 2]
   
-  </div>
+</div>
 
