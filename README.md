@@ -21,8 +21,8 @@
      
 <br>
   
- ![Minha galaxia 2](![Minha galaxia 2](https://github.com/Luana-RodriguesdaSilva/Luana-RodriguesdaSilva/assets/106934139/fa66028b-49d5-4c40-a85e-673a2d4c9491)
-)
+ ![Minha galaxia 2](![Minha galaxia 2](https://github.com/Luana-RodriguesdaSilva/Luana-RodriguesdaSilva/assets/106934139/3c6ab699-6de4-4095-bf1b-de57aa2ffad4)
+
 
 
  
