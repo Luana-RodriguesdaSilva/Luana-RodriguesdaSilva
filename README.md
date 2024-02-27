@@ -28,7 +28,8 @@
      
 <div align="center"style="display: inline_block"><br><br>
 
- ![Minha galaxia 2](https://github.com/Luana-RodriguesdaSilva/Luana-RodriguesdaSilva/assets/106934139/89c59727-39cb-4ff4-8c5f-5f2a7baca27a)
+![Imagens de planetas](https://github.com/Luana-RodriguesdaSilva/Luana-RodriguesdaSilva/assets/106934139/f7a26aa6-e8e2-454d-9706-01dac3c04a4d)
+
 
 </div>
   
