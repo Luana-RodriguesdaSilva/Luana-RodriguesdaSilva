@@ -1,7 +1,7 @@
 
 - 👋 Olá meu nome é Luana!
 - 👩‍💻 Análise de Dados | Visualização de Dados | UX Design
-- 🔎 Sou apaixonada por pesquisas, Antropologia e música.
+- 🔎 Sou apaixonada por pesquisas, antropologia e música.
 - 🐶 Tenho um cachorro chamado Ivan.
 
 
