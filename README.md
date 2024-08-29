@@ -1,5 +1,5 @@
 
-- 👋 Olá meu nome é Luana Rodrigues da Silva.
+- 👋 Olá meu nome é Luana!
 - 👩‍💻 Análise de Dados | Visualização de Dados | UX Design
 - 🔎 Sou apaixonada por pesquisas, Antropologia e música.
 - 🐶 Tenho um cachorro chamado Ivan.
