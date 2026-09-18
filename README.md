@@ -1,10 +1,11 @@
-- 👋 Olá, meu nome é Luana!
-- 👩‍💻 Análise de Dados | Visualização de Dados | UX Design | Power Platform
-- 📊 Experiência em Power BI, Power Apps e automação de processos
-- 🔎 Apaixonada por pesquisa, música e visualização de dados
-- 🐶 Tenho um cachorro chamado Ivan
+👋 Olá, meu nome é Luana!
 
-<br>
+🧠 Análise de Dados | Visualização de Dados | UX Design | Power Platform  
+📊 Power BI, Power Apps, Excel, Figma, HTML e CSS  
+🔎 Apaixonada por pesquisa, música e visualização de dados  
+🐶 Tenho um cachorro chamado Ivan  
+
+---
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luana-RodriguesdaSilva&show_icons=true&theme=synthwave&include_all_commits=false&count_private=false"/>
@@ -16,6 +17,8 @@
 ### 🚀 Skills
 
 <div style="display: inline_block"><br>
+  <img align="center" alt="Luana-HTML" height="30" width="80" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" alt="Luana-CSS" height="30" width="80" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="Luana-Python" height="30" width="80" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img align="center" alt="Luana-cloud" height="30" width="80" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
   <img align="center" alt="Luana-SQL" height="30" width="80" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
@@ -42,3 +45,4 @@
 ![Imagens de planetas](https://github.com/Luana-RodriguesdaSilva/Luana-RodriguesdaSilva/assets/106934139/f7a26aa6-e8e2-454d-9706-01dac3c04a4d)
 
 </div>
+
