@@ -5,7 +5,6 @@
 🔎 Apaixonada por pesquisa, música e visualização de dados  
 🐶 Tenho um cachorro chamado Ivan  
 
----
 
 
 ---
