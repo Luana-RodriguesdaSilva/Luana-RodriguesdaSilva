@@ -38,11 +38,3 @@
   <a href="mailto:luana1987r@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
----
-
-<div align="center"><br><br>
-  
-![Imagens de planetas](https://github.com/Luana-RodriguesdaSilva/Luana-RodriguesdaSilva/assets/106934139/f7a26aa6-e8e2-454d-9706-01dac3c04a4d)
-
-</div>
-
