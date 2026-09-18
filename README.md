@@ -5,14 +5,6 @@
 🔎 Apaixonada por pesquisa, música e visualização de dados  
 🐶 Tenho um cachorro chamado Ivan  
 
----
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luana-RodriguesdaSilva&show_icons=true&theme=synthwave"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luana-RodriguesdaSilva&layout=compact&theme=synthwave"/>
-</div>
-
----
 
 ### 🚀 Skills
 
